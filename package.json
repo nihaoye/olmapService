@@ -1,0 +1,24 @@
+{
+  "name": "olmapservice",
+  "version": "1.0.0",
+  "description": "olmapservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "doc": "jsdoc -c jsdoc.json -r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihaoye/olmapService.git"
+  },
+  "author": "zhangyuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihaoye/olmapService/issues"
+  },
+  "homepage": "https://github.com/nihaoye/olmapService#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.6.0"
+  }
+}
